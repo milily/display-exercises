@@ -10,7 +10,7 @@ body{
 	box-sizing: content-box;
 	background-color: yellow;
 	padding: 20px 10px 20px 5px;
-	margin: 0;
+	
 }
 .texto1{
 	display: block;
@@ -19,7 +19,7 @@ body{
     background-color: crimson;
     padding: 20px 10px 20px 5px;
     color: black;
-    margin: 0;
+   
 }
 .texto2{
 	display: block;
@@ -28,6 +28,6 @@ body{
 	background-color: yellow;
 	padding: 20px 10px 20px 5px;
 	text-transform: uppercase;
-	margin: 0;
+
 }
     
