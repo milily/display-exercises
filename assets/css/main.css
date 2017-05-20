@@ -4,32 +4,32 @@ body{
 	font-family: 'Montserrat', sans-serif;
 }
 .caja div{
+
 	display: inline-block;
     box-sizing: content-box;
+    
 }
 .caja .texto{
-	
-	
-	
+	width: 200px;
+	margin: 5px;
 	background-color: yellow;
+	padding: 10px 10px 30px 5px;
+
 
 	
 }
 .caja .texto1{
-	
-
-	
+	width: 200px;
+	margin: 5px;
     background-color: crimson;
-    
+    padding: 10px 10px 30px 5px;
     color: black;
 }
 
 .caja .texto2{
-	
-
-	
+	width: 200px;
+	margin: 5px;
 	background-color: yellow;
-	
+	padding: 10px 10px 30px 5px;
 	text-transform: uppercase;
-	margin: 0;
 }
