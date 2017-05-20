@@ -3,31 +3,33 @@ body{
 	margin: auto;
 	font-family: 'Montserrat', sans-serif;
 }
-
-.texto{
-	display: block;
-	height: 40px;
-	box-sizing: content-box;
+.caja div{
+	display: inline-block;
+    box-sizing: content-box;
+}
+.caja .texto{
+	
+	
+	
 	background-color: yellow;
-	padding: 20px 10px 20px 5px;
+
 	
 }
-.texto1{
-	display: block;
-	height: 40px;
-	box-sizing: content-box;
-    background-color: crimson;
-    padding: 20px 10px 20px 5px;
-    color: black;
-   
-}
-.texto2{
-	display: block;
-	height: 40px;
-	box-sizing: content-box;
-	background-color: yellow;
-	padding: 20px 10px 20px 5px;
-	text-transform: uppercase;
+.caja .texto1{
+	
 
-}
+	
+    background-color: crimson;
     
+    color: black;
+}
+
+.caja .texto2{
+	
+
+	
+	background-color: yellow;
+	
+	text-transform: uppercase;
+	margin: 0;
+}
