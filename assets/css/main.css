@@ -1,0 +1,23 @@
+body{
+	background-color: yellow;
+	margin: auto;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.texto{
+	margin-left: 5px;
+	padding top: 25px;
+	padding-bottom: 60px: 
+}
+.texto1{
+	display: block;
+	box-sizing: content-box;
+    background-color: crimson;
+    padding: 20px 10px 20px 5px;
+    color: black;
+}
+.texto2{
+	margin-left: 5px;
+	text-transform: uppercase;
+}
+    
