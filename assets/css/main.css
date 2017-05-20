@@ -1,23 +1,33 @@
 body{
-	background-color: yellow;
+    background-color: white;
 	margin: auto;
 	font-family: 'Montserrat', sans-serif;
 }
 
 .texto{
-	margin-left: 5px;
-	padding top: 25px;
-	padding-bottom: 60px: 
+	display: block;
+	height: 40px;
+	box-sizing: content-box;
+	background-color: yellow;
+	padding: 20px 10px 20px 5px;
+	margin: 0;
 }
 .texto1{
 	display: block;
+	height: 40px;
 	box-sizing: content-box;
     background-color: crimson;
     padding: 20px 10px 20px 5px;
     color: black;
+    margin: 0;
 }
 .texto2{
-	margin-left: 5px;
+	display: block;
+	height: 40px;
+	box-sizing: content-box;
+	background-color: yellow;
+	padding: 20px 10px 20px 5px;
 	text-transform: uppercase;
+	margin: 0;
 }
     
